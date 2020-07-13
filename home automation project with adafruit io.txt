@@ -1,0 +1,15 @@
+Use 3 sensor values 
+then simply use the sense hat emulator value
+
+temperature
+humidity
+DHT11 sensor
+
+
+now physically connect 2 LEDs / relay module
+
+and then try to create a complete home automation project
+
+where the values of 3 sensors will be sent to server once every minute
+and the user is capable of switching devices in his/her home
+whenever the user wants to
